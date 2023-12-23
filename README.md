@@ -51,4 +51,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 -   Special thanks to Google for providing the Gemini Pro API .
 
 <p style="text-align:center;">Made by Sathwik Ramisetty with ❤️ | © 2023 All rights reserved.</p>
-<p style="text-align:center;">Made by Sathwik Ramisetty with ❤️ | © 2023 All rights reserved.</p>
