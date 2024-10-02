@@ -13,7 +13,7 @@ This is a basic image captioning application using the 🚀 Gemini Pro API Visio
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/gemini-image-captioning-demo.git
+   git clone https://github.com/sathwik-3721/gemini-image-captioning-demo.git
    cd gemini-image-captioning-demo
    
   2. **Install the required dependencies:**
