@@ -47,7 +47,8 @@ if submit:
 footer = """
 ---
 
-<p style="text-align:center;">Made by Sathwik with ❤️ | © 2023 All rights reserved.</p>
+<p style="text-align:center;">Made with ❤️ by Sathwik | © 2023 All rights reserved.</p>
 """
 # making the text to align to center
+
 st.markdown(footer, unsafe_allow_html=True)
